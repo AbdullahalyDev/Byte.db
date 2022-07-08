@@ -1,0 +1,25 @@
+{
+  "name": "byte.db",
+  "version": "1.0.0",
+  "description": "Save your Data in the Best Local Database And Make your Application Secure... Better... Easy... On The Top.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahalyDev/Byte.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdullahalyDev/Byte.db/issues"
+  },
+  "homepage": "https://github.com/AbdullahalyDev/Byte.db#readme",
+  "keywords": [
+    "database",
+    "db",
+    "Data",
+    "cli"
+  ]
+}
